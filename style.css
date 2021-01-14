@@ -1,0 +1,100 @@
+.nav_image{
+    width: 200px;
+    
+}
+
+
+.col_img{
+    width: 400px;
+    margin-left: 10%;
+}
+h1{
+    font-family: 'Inter', sans-serif;
+    color: #FABE4C;
+}
+
+.secondh1{
+        color: #000;
+        
+             }
+   
+p{
+    font-family: 'Inter', sans-serif;
+}
+
+
+.container_second{
+    margin-top: 5%;
+}
+
+
+.card_img{
+    height: 350px;
+    width: 100% ;
+    padding: 15px 25px;
+    background-color: whitesmoke;
+    border-radius: 1em;
+}
+.card_img2{
+    height: 350px;
+    width: 100% ;
+    padding: 20px 45px;
+    background-color: whitesmoke;
+    border-radius: 1em;
+
+}
+
+.clr{
+    color: teal;
+}
+
+.card_hight{
+    height: 100px;
+}
+
+
+.icon{
+    width: 40%;
+}
+.lasth3{
+    color: #db981c;
+    text-align: center;
+           
+}
+.lasth3:hover{
+    color: #f5c368;
+}
+.for{
+    color: black;
+}
+
+.filled{
+    color: black;
+}
+.unfilled{
+    color: darkgrey;
+}
+footer p{
+    text-align: center ;
+    
+}
+
+
+body{
+    background-color: rgb(241, 237, 237);
+}
+.container.part1{
+    background-color: white;
+}
+.container.part2{
+    background-color: rgb(206, 201, 253);
+}
+.container.part3{
+    background-color: rgb(229, 255, 182);
+}
+.container.part4{
+    background-color: rgb(250, 206, 233);
+}
+.container.part5{
+    background-color: rgb(248, 209, 209);
+}
