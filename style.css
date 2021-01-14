@@ -3,10 +3,12 @@
     
 }
 
-
+.mainpadding{
+    padding-left: 10%;
+}
 .col_img{
-    width: 400px;
-    margin-left: 10%;
+    width: 100%;
+    
 }
 h1{
     font-family: 'Inter', sans-serif;
@@ -21,12 +23,6 @@ h1{
 p{
     font-family: 'Inter', sans-serif;
 }
-
-
-.container_second{
-    margin-top: 5%;
-}
-
 
 .card_img{
     height: 350px;
@@ -74,27 +70,28 @@ p{
 .unfilled{
     color: darkgrey;
 }
-footer p{
-    text-align: center ;
-    
+footer {
+    text-align: center ;  
+    background-color: gray; 
+    color: white;
 }
 
 
 body{
-    background-color: rgb(241, 237, 237);
+    background-color: rgb(235, 228, 228);
 }
-.container.part1{
-    background-color: white;
+.part1{
+    background-color:rgb(247, 229, 229);
 }
-.container.part2{
-    background-color: rgb(206, 201, 253);
+.part2{
+    background-color: rgb(205, 237, 240);
 }
-.container.part3{
-    background-color: rgb(229, 255, 182);
+.part3{
+    background-color: rgb(227, 243, 197);
 }
-.container.part4{
-    background-color: rgb(250, 206, 233);
+.part4{
+    background-color: rgb(245, 217, 234);
 }
-.container.part5{
-    background-color: rgb(248, 209, 209);
+.part5{
+    background-color: rgb(242, 247, 220);
 }
